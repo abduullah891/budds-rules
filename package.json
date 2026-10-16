@@ -1,0 +1,30 @@
+{
+  "name": "budds-rules",
+  "version": "2.1.0",
+  "description": "Modular, Extensible AI Agent Rules and Autonomous Execution Framework",
+  "main": "src/index.js",
+  "bin": {
+    "budds": "./bin/budds.js"
+  },
+  "scripts": {
+    "test": "node tests/run-all.js",
+    "doctor": "node bin/budds.js doctor",
+    "status": "node bin/budds.js status"
+  },
+  "keywords": [
+    "ai-agent",
+    "rules",
+    "orchestration",
+    "never-give-up",
+    "autonomous-execution",
+    "antigravity",
+    "claude-code",
+    "cursor",
+    "opencode"
+  ],
+  "author": "BUDDS Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "buddsRules": {
+    "enabled": true,
+    "mode": "autonomous",
+    "rulesFile": "C:\\Users\\abudi\\OneDrive\\Desktop\\parrot os\\budds-rules\\AGENTS.md",
+    "neverGiveUp": true,
+    "autoSkills": true
+  }
+}

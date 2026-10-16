@@ -1,0 +1,15 @@
+{
+  "mode": "resilient",
+  "maxCycles": 15,
+  "autoLoadSkills": true,
+  "strictVerification": true,
+  "enabledAdapters": [
+    "antigravity",
+    "claudecode",
+    "cursor",
+    "opencode",
+    "windsurf",
+    "copilot",
+    "codex"
+  ]
+}

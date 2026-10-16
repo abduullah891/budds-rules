@@ -1,0 +1,10 @@
+{
+  "id": "testing",
+  "name": "Automated Testing & QA Verification Playbook",
+  "domain": "testing",
+  "version": "1.0.0",
+  "description": "Comprehensive unit testing, integration tests, contract verification, edge case coverage, and regression guards.",
+  "keywords": ["test", "unit test", "integration test", "jest", "vitest", "pytest", "coverage", "mock", "assert", "benchmark", "verify"],
+  "specialistRole": "tester",
+  "autoActivation": true
+}

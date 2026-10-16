@@ -1,0 +1,10 @@
+{
+  "id": "development",
+  "name": "Full-Stack Development Playbook",
+  "domain": "development",
+  "version": "1.0.0",
+  "description": "Autonomous full-stack development, architectural design, component creation, and clean code generation.",
+  "keywords": ["build", "create", "implement", "feature", "refactor", "develop", "api", "architecture", "code", "rebuild"],
+  "specialistRole": "coder",
+  "autoActivation": true
+}

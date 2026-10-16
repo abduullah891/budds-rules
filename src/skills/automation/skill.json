@@ -1,0 +1,10 @@
+{
+  "id": "automation",
+  "name": "CLI & Workflow Automation Playbook",
+  "domain": "automation",
+  "version": "1.0.0",
+  "description": "Cross-platform CLI tooling, automated installer routines, system diagnostics, CI/CD pipeline automation, and self-healing scripts.",
+  "keywords": ["automate", "script", "cli", "installer", "pipeline", "workflow", "cron", "ci/cd", "deploy", "doctor", "orchestrate"],
+  "specialistRole": "orchestrator",
+  "autoActivation": true
+}

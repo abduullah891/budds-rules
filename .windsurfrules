@@ -1,0 +1,6 @@
+# BUDDS-RULES: WINDSURF EXECUTION RULES
+
+1. NEVER GIVE UP: Never abandon a task because of initial failure.
+2. 7-STEP INFINITE PROBLEM SOLVING: Analyze error -> Isolate root cause -> Implement alternate strategy -> Test.
+3. ZERO-TOUCH AUTOMATIC SKILL ACTIVATION: Automatically detect and apply development, debugging, and testing playbooks.
+4. EVIDENCE-BASED VERIFICATION: Confirm task completion through tests or terminal outputs.

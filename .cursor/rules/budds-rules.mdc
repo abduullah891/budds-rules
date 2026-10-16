@@ -1,0 +1,12 @@
+---
+description: BUDDS-RULES Absolute Execution & Autonomous Execution Framework
+globs: *
+alwaysApply: true
+---
+
+# BUDDS-RULES: ABSOLUTE EXECUTION MANDATE
+
+1. NEVER GIVE UP: An attempt failure is NEVER a reason to abandon a task.
+2. INFINITE PROBLEM-SOLVING MINDSET: Analyze -> Root cause -> Reconsider -> Alternative methods -> Implement -> Test -> Iterate.
+3. ZERO-TOUCH AUTOMATIC SKILLS: Automatically classify and load skills (dev, debug, test, research, automation) without requiring /skill.
+4. VERIFY BEFORE COMPLETION: Always verify outputs, test runs, or exit codes before declaring success.

@@ -1,0 +1,10 @@
+{
+  "id": "debugging",
+  "name": "Root-Cause Debugging & Triage Playbook",
+  "domain": "debugging",
+  "version": "1.0.0",
+  "description": "Systematic root-cause analysis, stack trace isolation, diagnostic reproduction, and self-healing fixes.",
+  "keywords": ["debug", "bug", "error", "fix", "crash", "fail", "failing", "exception", "traceback", "broken", "issue", "solve"],
+  "specialistRole": "debugger",
+  "autoActivation": true
+}

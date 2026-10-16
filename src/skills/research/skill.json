@@ -1,0 +1,10 @@
+{
+  "id": "research",
+  "name": "Deep Technical Research & Intelligence Playbook",
+  "domain": "research",
+  "version": "1.0.0",
+  "description": "API exploration, documentation synthesis, sitemap parsing, architecture pattern comparison, and external knowledge extraction.",
+  "keywords": ["research", "investigate", "analyze", "study", "search", "docs", "documentation", "learn", "explore", "compare"],
+  "specialistRole": "researcher",
+  "autoActivation": true
+}

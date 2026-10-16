@@ -1,0 +1,10 @@
+{
+  "id": "documentation",
+  "name": "Technical Documentation & Specification Playbook",
+  "domain": "documentation",
+  "version": "1.0.0",
+  "description": "Clear architectural documentation, API references, changelogs, READMEs, diagrams, and developer guides.",
+  "keywords": ["doc", "documentation", "readme", "changelog", "guide", "manual", "explain", "comment", "docstring", "specification"],
+  "specialistRole": "architect",
+  "autoActivation": true
+}
